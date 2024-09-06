@@ -16,8 +16,7 @@ body {
     font-style: normal;
     padding-left: 20px;
     padding-right: 20px;
-    position: absolute;
-    z-index: 2;
+    
 
 
 
@@ -48,7 +47,7 @@ body {
         max-width: 100vh;
         height: 500px;
         margin-bottom: 100px;
-        position: relative;
+        background-color: #ffffff00;
 
     }
 
@@ -72,7 +71,7 @@ body {
 
 }
 
-/* @media (max-width: 800px) {
+@media (max-width: 800px) {
     swiper-container {
         width: 500px;
         height: 100%;
@@ -85,9 +84,9 @@ body {
         height: 100%;
         object-fit: cover;
     }
-} */
+}
 
-/* @media (max-width: 600px) {
+@media (max-width: 600px) {
     swiper-container {
         width: 400px;
         height: 100%;
@@ -113,4 +112,4 @@ body {
         font-weight: 100;
         margin-bottom: 5px;
     }
-} */
+}
