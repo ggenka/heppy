@@ -71,8 +71,6 @@ body {
 
 }
 
-
-
 @media (max-width: 750px) {
     swiper-container {
         display: none;
