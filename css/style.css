@@ -44,7 +44,7 @@ body {
 
 
     swiper-container {
-        max-width: 100%;
+        max-width: 100vh;
         height: 500px;
         margin-bottom: 100px;
     }
