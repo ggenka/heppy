@@ -136,32 +136,6 @@ body {
 
 }
 
-@media (max-width: 370px) {
-
-    header {
-
-        h1 {
-            font-size: 1px;
-            letter-spacing: 0.1;
-        }
-
-        p {
-            font-size: 1px;
-            margin-bottom: 3px;
-            letter-spacing: 0.1;
-        }
-    }
 
 
-    swiper-container {
-        width: 100px;
-    }
 
-    swiper-slide img {
-        width: 20px;
-        height: 20px;
-        object-fit: cover;
-    }
-
-
-}
